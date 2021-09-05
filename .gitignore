@@ -1,7 +1,1 @@
-*auth.pass
-{
-  "consumer_key":"qPuHDbqRPSzPrVGk5F7L8zhvu",
-  "consumer_secret":"MouTBsC9PzM6YBI7GTu9KuiwCNDevKaWclgl2cur4STVaOvywJ",
-  "access_token":"1434629246639656964-e5izm6XZqGuqBVyoX59kG4aSaBKoZK",
-  "access_token_secret":"GvjiO1XmY4CEqRXb4BrwIChYiDqANEPW3U4bBBYuIySAA"
-}
+auth.pass
